@@ -12,20 +12,10 @@
 
 ---
 
-## 📂 Projects
-Here are some of my existing projects:  
+## 📂 Projects (Work in Progress)
+- Currently building and experimenting with **ML/AI models** and **web applications**  
+- Projects will be updated here soon  
 
-1. **[Project 1 Name](https://github.com/username/project1)**  
-   - Description: Short description of the project  
-   - Tech Used: Python, ML, AI, etc.  
-   - Screenshot/GIF: Optional  
-
-2. **[Project 2 Name](https://github.com/username/project2)**  
-   - Description: Short description of the project  
-   - Tech Used: React, Node.js, etc.  
-   - Screenshot/GIF: Optional  
-
-*(Add more projects as you build them)*
 
 ---
 
